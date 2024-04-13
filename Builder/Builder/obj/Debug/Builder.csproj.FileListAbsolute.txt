@@ -1,0 +1,8 @@
+E:\Project\Builder\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+E:\Project\Builder\Builder\obj\Debug\Builder.MainForm.resources
+E:\Project\Builder\Builder\obj\Debug\Builder.csproj.GenerateResource.Cache
+E:\Project\Builder\Builder\bin\Debug\Builder.exe.config
+E:\Project\Builder\Builder\bin\Debug\Builder.exe
+E:\Project\Builder\Builder\bin\Debug\Builder.pdb
+E:\Project\Builder\Builder\obj\Debug\Builder.exe
+E:\Project\Builder\Builder\obj\Debug\Builder.pdb
